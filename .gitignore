@@ -1,0 +1,7 @@
+.env
+.env.*
+*.key
+.DS_Store
+.obsidian/
+node_modules/
+.claude/settings.local.json
